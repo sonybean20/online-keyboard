@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import keyboard from './keyboard.svg';
 import './App.css';
 
 function App() {
@@ -165,6 +166,8 @@ function App() {
   function handleTextChange(e) {
     e.preventDefault();
     document.getElementById('output').value = parse(e.target.value);
+
+    // document.querySelector(".keyboard").getSVGDocument().getElementById("q-key").setAttribute("fill", "red")
   }
 
   return (
@@ -179,6 +182,8 @@ function App() {
       <div>      
         <textarea id="output" className="txt"></textarea>
       </div>
+      {/* <img src={keyboard} className="keyboard" onload="SVGInject(this)"/> */}
+      <object class="keyboard" type="image/svg+xml" data={keyboard}></object>
     </div>
   );
 }

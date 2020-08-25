@@ -38,9 +38,20 @@
 }
 
 .txt {
-  min-width: 100vh;
-  max-width: 80%;
-  min-height: 10vh;
-  max-height: 80%;
+  /* min-width: 100vh; */
+  width: 70%;
+  max-width: 150vh;
+  /* min-height: 10vh; */
+  height: 70%;
   overflow-y: scroll;
+}
+
+.keyboard {
+  width: 70%;
+  max-width: 150vh;
+}
+
+#q-key {
+  display: none;
+  /* color: #61dafb; */
 }
