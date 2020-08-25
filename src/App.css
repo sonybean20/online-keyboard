@@ -37,10 +37,10 @@
   }
 }
 
-#text {
+.txt {
   min-width: 100vh;
   max-width: 80%;
-  min-height: 30vh;
+  min-height: 10vh;
   max-height: 80%;
   overflow-y: scroll;
 }

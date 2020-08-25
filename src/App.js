@@ -18,7 +18,7 @@ function App() {
     'u' : 'ㅕ',
     'i' : 'ㅑ',
     'o' : 'ㅐ',
-    'O' : 'ㅔ',
+    'O' : 'ㅒ',
     'p' : 'ㅔ',
     'P' : 'ㅖ',
     'a' : 'ㅁ',
@@ -43,7 +43,42 @@ function App() {
   const medialJamo = toDictionary('ㅏㅐㅑㅒㅓㅔㅕㅖㅗㅘㅙㅚㅛㅜㅝㅞㅟㅠㅡㅢㅣ'.split(''));
   const finalJamo = toDictionary([''].concat('ㄱㄲㄳㄴㄵㄶㄷㄹㄺㄻㄼㄽㄾㄿㅀㅁㅂㅄㅅㅆㅇㅈㅊㅋㅌㅍㅎ'.split('')));
 
-  // const medialComboJamo = {};
+  const medialComboJamo = {
+    'ㅗ' : { 
+      'ㅏ' : 'ㅚ',
+      'ㅐ' : 'ㅙ',
+      'ㅣ' : 'ㅚ'
+    },
+    'ㅜ' : {
+      'ㅓ' : 'ㅝ',
+      'ㅔ' : 'ㅞ',
+      'ㅣ' : 'ㅟ'
+    },
+    'ㅡ' : {
+      'ㅣ' : 'ㅢ'
+    }
+  };
+  const finalComboJamo = {
+    'ㄱ' : {
+      'ㅅ' : 'ㄳ'
+    },
+    'ㄴ' : {
+      'ㅈ' : 'ㄵ',
+      'ㅎ' : 'ㄶ'
+    },
+    'ㄹ' : {
+      'ㄱ' : 'ㄺ',
+      'ㅁ' : 'ㄻ',
+      'ㅂ' : 'ㄼ',
+      'ㅅ' : 'ㄽ',
+      'ㅌ' : 'ㄾ',
+      'ㅍ' : 'ㄿ',
+      'ㅎ' : 'ㅀ'
+    },
+    'ㅂ' : {
+      'ㅅ' : 'ㅄ'
+    }
+  };
 
   function toDictionary(arr) {
     let d = {};
@@ -72,34 +107,56 @@ function App() {
     let combined = '';
     for (let i = 0; parsed[i]; i++) {
       let initial, medial, final;
-      if (initialJamo[parsed[i]] === undefined) {
+      if (initialJamo[parsed[i]] === undefined ||
+          i+1 >= parsed.length || 
+          !medialJamo.hasOwnProperty(parsed[i+1])) {
         combined += parsed[i];
         continue;
       } else {
         initial = initialJamo[parsed[i]];
       }
 
+      if (i+1 >= parsed.length) break;
+
       i++;
-      if (medialJamo[parsed[i]] === undefined) {
-        combined += parsed[i];
-        continue;
+      if (i+1 < parsed.length &&
+                medialComboJamo.hasOwnProperty(parsed[i]) && 
+                medialComboJamo[parsed[i]].hasOwnProperty(parsed[i+1])) { // combination
+        medial = medialJamo[medialComboJamo[parsed[i]][parsed[i+1]]];
+        i++;
       } else {
         medial = medialJamo[parsed[i]];
       }
-    }
-    
-    let initial = initialJamo[parsed[0]];
-    let medial = medialJamo[parsed[1]];
-    let final = finalJamo[parsed[2]];
-    console.log(initial * 588 + medial * 28 + final + 44032);
+      
+      i++;
+      if (i == parsed.length ||
+          finalJamo[parsed[i]] === undefined ||
+          (i+1 < parsed.length && medialJamo[parsed[i+1]] !== undefined)) { // initialJamo of next set
+        final = finalJamo[''];
+        i--;
+      } else if (i+1 < parsed.length &&
+                finalComboJamo.hasOwnProperty(parsed[i]) && 
+                finalComboJamo[parsed[i]].hasOwnProperty(parsed[i+1]) && // combination
+                (i+2 >= parsed.length || medialJamo[parsed[i+2]] === undefined)) { // not initialJamo of next set
+        final = finalJamo[finalComboJamo[parsed[i]][parsed[i+1]]];
+        i++;
+      } else {
+        final = finalJamo[parsed[i]];
+      }
 
-    return parsed;
+      console.log(String.fromCharCode(initial * 588 + medial * 28 + final + 44032));
+      combined += String.fromCharCode(initial * 588 + medial * 28 + final + 44032);
+    }
+
+    console.log('combined: ' + combined);
+
+    return combined;
   }
 
   function handleTextChange(e) {
     e.preventDefault();
-    console.log(e.target.value);
-    e.target.value = parse(e.target.value);
+    console.log(parse(e.target.value));
+    document.getElementById('output').value = parse(e.target.value);
   }
 
   return (
@@ -109,7 +166,10 @@ function App() {
         <h1>Online Korean Keyboard</h1>
       </header>
       <div>
-        <textarea id="text" onChange={handleTextChange}></textarea>
+        <textarea id="input" className="txt" onChange={handleTextChange}></textarea>
+      </div>
+      <div>      
+        <textarea id="output" className="txt"></textarea>
       </div>
     </div>
   );
