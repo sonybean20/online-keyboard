@@ -45,7 +45,7 @@ function App() {
 
   const medialComboJamo = {
     'ㅗ' : { 
-      'ㅏ' : 'ㅚ',
+      'ㅏ' : 'ㅘ',
       'ㅐ' : 'ㅙ',
       'ㅣ' : 'ㅚ'
     },
@@ -91,7 +91,7 @@ function App() {
   function parse(str) {
     let parsed = '';
     
-    // from alphabet to korean characters
+    // from alphabet to korean characters, ex) 'dkssud' -> 'ㅇㅏㄴㄴㅕㅇ'
     for (let i = 0; str[i]; i++) {
       if (alphabetToKorean[str[i].toLowerCase()] === undefined) {
         parsed += str[i];
@@ -101,61 +101,69 @@ function App() {
         parsed += alphabetToKorean[str[i].toLowerCase()];
       }
     }
-    console.log("parsed: " + parsed);
 
-    // combine initial, medial, final jamo
+    // combine initial, medial, final jamo, ex) 'ㅇㅏㄴㄴㅕㅇ' -> '안녕'
     let combined = '';
     for (let i = 0; parsed[i]; i++) {
       let initial, medial, final;
-      if (initialJamo[parsed[i]] === undefined ||
-          i+1 >= parsed.length || 
-          !medialJamo.hasOwnProperty(parsed[i+1])) {
+
+      // handle initial 
+      if (i+1 < parsed.length &&
+        medialComboJamo.hasOwnProperty(parsed[i]) && 
+        medialComboJamo[parsed[i]].hasOwnProperty(parsed[i+1])) { // begin with medial combo jamo, ex) ㅟ
+          combined += medialComboJamo[parsed[i]][parsed[i+1]];
+          i++;
+          continue;
+      } else if (initialJamo[parsed[i]] === undefined ||        // medial single, ex) ㅜ
+                  i+1 >= parsed.length || 
+                  !medialJamo.hasOwnProperty(parsed[i+1])) {    // or ending in single initial jamo, ex) ㅁ
         combined += parsed[i];
         continue;
-      } else {
+      } else {                                                  // ex) ㅁ of 만
         initial = initialJamo[parsed[i]];
       }
 
       if (i+1 >= parsed.length) break;
-
       i++;
+
+      // handle medial
       if (i+1 < parsed.length &&
                 medialComboJamo.hasOwnProperty(parsed[i]) && 
-                medialComboJamo[parsed[i]].hasOwnProperty(parsed[i+1])) { // combination
+                medialComboJamo[parsed[i]].hasOwnProperty(parsed[i+1])) { // combination medial jamo, ex) ㅟ of 윙
         medial = medialJamo[medialComboJamo[parsed[i]][parsed[i+1]]];
         i++;
-      } else {
+      } else {                                                            // single medial jamo, ex) ㅏ of 안
         medial = medialJamo[parsed[i]];
       }
       
       i++;
+
+      // handle final 
       if (i == parsed.length ||
           finalJamo[parsed[i]] === undefined ||
-          (i+1 < parsed.length && medialJamo[parsed[i+1]] !== undefined)) { // initialJamo of next set
-        final = finalJamo[''];
+          (i+1 < parsed.length && medialJamo[parsed[i+1]] !== undefined)) {       // initialJamo of next set, ex) reached ㄴ of 가나
+        final = finalJamo['']; // save for next set, ex) 간ㅏ (X), 가나 (O)
         i--;
       } else if (i+1 < parsed.length &&
                 finalComboJamo.hasOwnProperty(parsed[i]) && 
-                finalComboJamo[parsed[i]].hasOwnProperty(parsed[i+1]) && // combination
-                (i+2 >= parsed.length || medialJamo[parsed[i+2]] === undefined)) { // not initialJamo of next set
+                finalComboJamo[parsed[i]].hasOwnProperty(parsed[i+1]) &&           // combination final jamo, ex) ㄶ of 않
+                (i+2 >= parsed.length || medialJamo[parsed[i+2]] === undefined)) { // not initialJamo of next set, ex) 낝ㅣㅇ (X), 난징 (O)
         final = finalJamo[finalComboJamo[parsed[i]][parsed[i+1]]];
         i++;
-      } else {
+      } else {                                                                     // single final jamo, ex) ㄴ of 안
         final = finalJamo[parsed[i]];
       }
 
-      console.log(String.fromCharCode(initial * 588 + medial * 28 + final + 44032));
+      // calculation source 1: https://web.archive.org/web/20190512031142/http://www.programminginkorean.com/programming/hangul-in-unicode/composing-syllables-in-unicode/
+      // source 2: http://gernot-katzers-spice-pages.com/var/korean_hangul_unicode.html
       combined += String.fromCharCode(initial * 588 + medial * 28 + final + 44032);
     }
-
-    console.log('combined: ' + combined);
 
     return combined;
   }
 
   function handleTextChange(e) {
     e.preventDefault();
-    console.log(parse(e.target.value));
     document.getElementById('output').value = parse(e.target.value);
   }
 
