@@ -1,9 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
-import keyboard from './keyboard.svg';
+// import logo from './logo.svg';
+import SVG from 'react-inlinesvg';
+// import keyboard from './keyboard.svg';
 import './App.css';
 
 function App() {
+  // const Keyboard = () => <SVG src={require('./keyboard.svg')} />;
+
   const alphabetToKorean = {
     'q' : 'ㅂ',
     'Q' : 'ㅃ',
@@ -140,7 +143,7 @@ function App() {
       i++;
 
       // handle final 
-      if (i == parsed.length ||
+      if (i === parsed.length ||
           finalJamo[parsed[i]] === undefined ||
           (i+1 < parsed.length && medialJamo[parsed[i+1]] !== undefined)) {       // initialJamo of next set, ex) reached ㄴ of 가나
         final = finalJamo['']; // save for next set, ex) 간ㅏ (X), 가나 (O)
@@ -167,7 +170,23 @@ function App() {
     e.preventDefault();
     document.getElementById('output').value = parse(e.target.value);
 
-    // document.querySelector(".keyboard").getSVGDocument().getElementById("q-key").setAttribute("fill", "red")
+    // document.getElementById("keyboard").contentDocument.getElementById("q-key").setAttribute("fill", "red")
+  }
+
+  function addEventListeners(e) {
+    let el = document.getElementById('q-key');
+    el.addEventListener("mousedown", keyMousedown);
+    el.addEventListener("mouseup", keyMouseup);
+  }
+
+  function keyMousedown(e) {
+    console.log("keyMousedown");
+    e.target.style.fill = 'rgb(145, 161, 195)';
+  }
+
+  function keyMouseup(e) {
+    console.log("keyMouseup");
+    e.target.style.fill = 'rgb(200, 207, 224)';
   }
 
   return (
@@ -182,8 +201,9 @@ function App() {
       <div>      
         <textarea id="output" className="txt"></textarea>
       </div>
-      {/* <img src={keyboard} className="keyboard" onload="SVGInject(this)"/> */}
-      <object class="keyboard" type="image/svg+xml" data={keyboard}></object>
+      <SVG className="keyboard" src={require('./keyboard.svg')} onLoad={addEventListeners} />
+      {/* <img src={keyboard} className="keyboard" onLoad={SVGInject(this)}/> */}
+      {/* <object className="keyboard" type="image/svg+xml" data={keyboard}></object> */}
     </div>
   );
 }
