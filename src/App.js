@@ -177,40 +177,47 @@ function App() {
     let elems = document.getElementsByClassName('key-text');
     for (let i = 0; i < elems.length; i++) {
       // elems[i].addEventListener("mousedown", textKeyMousedown);
-      elems[i].addEventListener("mouseover", textKeyMousedown);
+      elems[i].addEventListener("mouseover", textKeyMouseover);
       // elems[i].addEventListener("mouseup", textKeyMouseup);
-      elems[i].addEventListener("mouseout", textKeyMouseup);
+      elems[i].addEventListener("mouseout", textKeyMouseout);
+      elems[i].addEventListener("click", keyClick);
     }
 
     elems = document.getElementsByClassName('key');
     for (let i = 0; i < elems.length; i++) {
-      // elems[i].addEventListener("mousedown", keyMousedown);
-      elems[i].addEventListener("mouseover", keyMousedown);
-      // elems[i].addEventListener("mouseup", keyMouseup);
-      elems[i].addEventListener("mouseout", keyMouseup);
+      elems[i].addEventListener("mouseover", keyMouseover);
+      elems[i].addEventListener("mouseout", keyMouseout);
+      elems[i].addEventListener("click", keyClick);
     }
   }
 
-  function textKeyMousedown(e) {
+  function textKeyMouseover(e) {
     console.log("textKeyMousedown: target.id " + e.target.id + ", parent id " + e.target.id.substr(0,1) + 'key');
     let parent_key = document.getElementById(e.target.id.substr(0,1) + '-key');
     parent_key.style.fill = 'rgb(145, 161, 195)';
   }
 
-  function textKeyMouseup(e) {
+  function textKeyMouseout(e) {
     console.log("textKeyMouseup");
     let parent_key = document.getElementById(e.target.id.substr(0,1) + '-key');
     parent_key.style.fill = 'rgb(200, 207, 224)';
   }
 
-  function keyMousedown(e) {
+  function keyMouseover(e) {
     console.log("keyMousedown");
     e.target.style.fill = 'rgb(145, 161, 195)';
   }
 
-  function keyMouseup(e) {
+  function keyMouseout(e) {
     console.log("keyMouseup");
     e.target.style.fill = 'rgb(200, 207, 224)';
+  }
+
+  function keyClick(e) {
+    console.log("keyClick " + e.target.id);
+    let input = document.getElementById('input')
+    input.value += e.target.id.substr(0,1);
+    document.getElementById('output').value = parse(input.value);
   }
 
   return (
