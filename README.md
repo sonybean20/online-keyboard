@@ -11,6 +11,6 @@ Type in Korean without installing a Korean keyboard!
    ㅇㅏㄴㄴㅕㅇ -> 안녕
 
 ## More features to come...
-* Auto-highlight keys when pressed
-* Click keys to type
+* ~~Auto-highlight keys on hover~~: *Done*
+* Click keys to type: *In progress*
 * Support romanization to Korean parsing
