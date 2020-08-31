@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="461.59632"
-     inkscape:cy="362.3816"
+     inkscape:cx="670.93942"
+     inkscape:cy="349.24962"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -109,7 +109,9 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="q-key"
+       className="key"
        width="18.520834"
        height="18.520834"
        x="32.087128"
@@ -126,7 +128,8 @@
          x="34.01326"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77">Q</tspan></text>
+         className="key-text"
+         id="q-en-s">Q</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -137,7 +140,8 @@
          x="41.477196"
          y="222.40411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-4">ㅃ</tspan></text>
+         className="key-text"
+         id="q-kr-d">ㅃ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -148,7 +152,8 @@
          x="41.464203"
          y="230.38455"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08">ㅂ</tspan></text>
+         className="key-text"
+         id="q-kr-s">ㅂ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8"
@@ -159,6 +164,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="w-key"
        width="18.520834"
        height="18.520834"
@@ -176,7 +182,8 @@
          x="54.121597"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1">W</tspan></text>
+         className="key-text"
+         id="w-en-s">W</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -187,7 +194,8 @@
          x="62.1147"
          y="222.40411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-66">ㅉ</tspan></text>
+         className="key-text"
+         id="w-kr-d">ㅉ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -198,7 +206,8 @@
          x="62.101707"
          y="230.38454"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04">ㅈ</tspan></text>
+         className="key-text"
+         id="w-kr-s">ㅈ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-0"
@@ -209,6 +218,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="e-key"
        width="18.520834"
        height="18.520834"
@@ -226,7 +236,8 @@
          x="75.288269"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-0">E</tspan></text>
+         className="key-text"
+         id="e-en-s">E</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -237,7 +248,8 @@
          x="82.752205"
          y="222.40411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-4-4">ㄸ</tspan></text>
+         className="key-text"
+         id="e-kr-d">ㄸ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -248,7 +260,8 @@
          x="82.739212"
          y="230.38455"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-7">ㄷ</tspan></text>
+         className="key-text"
+         id="e-kr-s">ㄷ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-5"
@@ -259,12 +272,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-6"
+       className="key"
+       id="r-key"
        width="18.520834"
        height="18.520834"
        x="93.999641"
        y="214.14183"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-6" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -275,7 +290,8 @@
          x="95.925774"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-3">R</tspan></text>
+         className="key-text"
+         id="r-en-s">R</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -286,7 +302,8 @@
          x="103.38969"
          y="222.40411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-66-2">ㄲ</tspan></text>
+         className="key-text"
+         id="r-kr-d">ㄲ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -297,7 +314,8 @@
          x="103.37672"
          y="230.38454"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-7">ㄱ</tspan></text>
+         className="key-text"
+         id="r-kr-s">ㄱ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-8"
@@ -308,12 +326,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-2"
+       className="key"
+       id="t-key"
        width="18.520834"
        height="18.520834"
        x="114.63715"
        y="214.14183"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-2" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -324,7 +344,8 @@
          x="116.56327"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-09">T</tspan></text>
+         className="key-text"
+         id="t-en-s">T</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -335,7 +356,8 @@
          x="124.02723"
          y="222.40411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-4-2">ㅆ</tspan></text>
+         className="key-text"
+         id="t-kr-d">ㅆ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -346,7 +368,8 @@
          x="124.01421"
          y="230.38455"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-6">ㅅ</tspan></text>
+         className="key-text"
+         id="t-kr-s">ㅅ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-9"
@@ -357,12 +380,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-0"
+       className="key"
+       id="y-key"
        width="18.520834"
        height="18.520834"
        x="135.27461"
        y="214.14183"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -373,7 +398,8 @@
          x="137.20074"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-8">Y</tspan></text>
+         className="key-text"
+         id="y-en-s">Y</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -395,7 +421,8 @@
          x="144.65169"
          y="230.38454"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-2">ㅛ</tspan></text>
+         className="key-text"
+         id="y-kr-s">ㅛ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-0-6"
@@ -406,12 +433,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-4-8"
+       className="key"
+       id="u-key"
        width="18.520834"
        height="18.520834"
        x="155.91212"
        y="214.14183"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-4-8" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -422,7 +451,8 @@
          x="157.83824"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-0-8">U</tspan></text>
+         className="key-text"
+         id="u-en-s">U</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -444,7 +474,8 @@
          x="165.2892"
          y="230.38455"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-7-2">ㅕ</tspan></text>
+         className="key-text"
+         id="u-kr-s">ㅕ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-5-4"
@@ -455,12 +486,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-6-9"
+       className="key"
+       id="i-key"
        width="18.520834"
        height="18.520834"
        x="176.54964"
        y="214.14183"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-6-9" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -471,7 +504,8 @@
          x="178.47575"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-3-3">I</tspan></text>
+         className="key-text"
+         id="i-en-s">I</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -493,7 +527,8 @@
          x="185.92671"
          y="230.38454"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-7-2">ㅑ</tspan></text>
+         className="key-text"
+         id="i-kr-s">ㅑ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-9"
@@ -504,12 +539,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-7"
+       className="key"
+       id="o-key"
        width="18.520834"
        height="18.520834"
        x="197.18709"
        y="214.14183"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-7" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -520,7 +557,8 @@
          x="199.11322"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-2">O</tspan></text>
+         className="key-text"
+         id="o-en-s">O</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -531,7 +569,8 @@
          x="206.57715"
          y="222.40411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-4-6">ㅒ</tspan></text>
+         className="key-text"
+         id="o-kr-d">ㅒ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -542,7 +581,8 @@
          x="206.56416"
          y="230.38455"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-1">ㅐ</tspan></text>
+         className="key-text"
+         id="o-kr-s">ㅐ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-3"
@@ -553,12 +593,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-1"
+       className="key"
+       id="p-key"
        width="18.520834"
        height="18.520834"
        x="217.82458"
        y="214.14183"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -569,7 +611,8 @@
          x="219.75072"
          y="225.83195"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-7">P</tspan></text>
+         className="key-text"
+         id="p-en-s">P</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -580,7 +623,8 @@
          x="227.21465"
          y="222.40411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-66-0">ㅖ</tspan></text>
+         className="key-text"
+         id="p-kr-d">ㅖ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -591,7 +635,8 @@
          x="227.20166"
          y="230.38454"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-72">ㅔ</tspan></text>
+         className="key-text"
+         id="p-kr-s">ㅔ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-0-3"
@@ -738,12 +783,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-97"
+       className="key"
+       id="a-key"
        width="18.520834"
        height="18.520834"
        x="37.378803"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-97" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -754,7 +801,8 @@
          x="39.304935"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-8">A</tspan></text>
+         className="key-text"
+         id="a-en-s">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -765,7 +813,8 @@
          x="46.755878"
          y="251.55118"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-0">ㅁ</tspan></text>
+         className="key-text"
+         id="a-kr-s">ㅁ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-8"
@@ -776,12 +825,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-60"
+       className="key"
+       id="s-key"
        width="18.520834"
        height="18.520834"
        x="58.016308"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-60" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -792,7 +843,8 @@
          x="59.94244"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-1">S</tspan></text>
+         className="key-text"
+         id="s-en-s">S</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -803,7 +855,8 @@
          x="67.393387"
          y="251.55116"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-3">ㄴ</tspan></text>
+         className="key-text"
+         id="s-kr-s">ㄴ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-0-5"
@@ -814,12 +867,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-4-5"
+       className="key"
+       id="d-key"
        width="18.520834"
        height="18.520834"
        x="78.653809"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-4-5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -830,7 +885,8 @@
          x="80.579941"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-0-1">D</tspan></text>
+         className="key-text"
+         id="d-en-s">D</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -841,7 +897,8 @@
          x="88.030884"
          y="251.55118"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-7-0">ㅇ</tspan></text>
+         className="key-text"
+         id="d-kr-s">ㅇ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-5-9"
@@ -852,12 +909,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-6-39"
+       className="key"
+       id="f-key"
        width="18.520834"
        height="18.520834"
        x="99.291328"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-6-39" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -868,7 +927,8 @@
          x="101.21746"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-3-7">F</tspan></text>
+         className="key-text"
+         id="f-en-s">F</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -879,7 +939,8 @@
          x="108.6684"
          y="251.55116"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-7-3">ㄹ</tspan></text>
+         className="key-text"
+         id="f-kr-s">ㄹ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-7"
@@ -890,12 +951,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-1"
+       className="key"
+       id="g-key"
        width="18.520834"
        height="18.520834"
        x="119.92881"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -906,7 +969,8 @@
          x="121.85498"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-6">G</tspan></text>
+         className="key-text"
+         id="g-en-s">G</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -917,7 +981,8 @@
          x="129.30589"
          y="251.55118"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-64">ㅎ</tspan></text>
+         className="key-text"
+         id="g-kr-s">ㅎ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-7"
@@ -928,12 +993,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-2"
+       className="key"
+       id="h-key"
        width="18.520834"
        height="18.520834"
        x="140.56625"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-2" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -944,7 +1011,8 @@
          x="142.4924"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-4">H</tspan></text>
+         className="key-text"
+         id="h-en-s">H</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -955,7 +1023,8 @@
          x="149.94333"
          y="251.55116"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-5">ㅗ</tspan></text>
+         className="key-text"
+         id="h-kr-s">ㅗ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-0-37"
@@ -966,12 +1035,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-4-9"
+       className="key"
+       id="j-key"
        width="18.520834"
        height="18.520834"
        x="161.20377"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-4-9" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -982,7 +1053,8 @@
          x="163.12988"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-0-6">J</tspan></text>
+         className="key-text"
+         id="j-en-s">J</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -993,7 +1065,8 @@
          x="170.58084"
          y="251.55118"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-7-3">ㅓ</tspan></text>
+         className="key-text"
+         id="j-kr-s">ㅓ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-5-7"
@@ -1004,12 +1077,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-6-4"
+       className="key"
+       id="k-key"
        width="18.520834"
        height="18.520834"
        x="181.84128"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-6-4" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1020,7 +1095,8 @@
          x="183.7674"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-3-4">K</tspan></text>
+         className="key-text"
+         id="k-en-s">K</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1031,7 +1107,8 @@
          x="191.21835"
          y="251.55116"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-7-8">ㅏ</tspan></text>
+         className="key-text"
+         id="k-kr-s">ㅏ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-4"
@@ -1042,12 +1119,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-27"
+       className="key"
+       id="l-key"
        width="18.520834"
        height="18.520834"
        x="202.47871"
        y="235.30846"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-27" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1058,7 +1137,8 @@
          x="204.40485"
          y="246.99858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-65">L</tspan></text>
+         className="key-text"
+         id="l-en-s">L</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1069,7 +1149,8 @@
          x="211.85579"
          y="251.55118"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-65">ㅣ</tspan></text>
+         className="key-text"
+         id="l-kr-s">ㅣ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-4"
@@ -1139,12 +1220,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-12"
+       className="key"
+       id="z-key"
        width="18.520834"
        height="18.520834"
        x="45.803165"
        y="256.4751"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-12" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1155,7 +1238,8 @@
          x="47.729298"
          y="268.16537"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-68">Z</tspan></text>
+         className="key-text"
+         id="z-en-s">Z</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1166,7 +1250,8 @@
          x="55.180241"
          y="272.71796"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-3">ㅋ</tspan></text>
+         className="key-text"
+         id="z-kr-s">ㅋ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-39"
@@ -1177,12 +1262,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-59"
+       className="key"
+       id="x-key"
        width="18.520834"
        height="18.520834"
        x="66.440666"
        y="256.4751"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-59" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1193,7 +1280,8 @@
          x="68.366798"
          y="268.16537"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-0">X</tspan></text>
+         className="key-text"
+         id="x-en-s">X</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1204,7 +1292,8 @@
          x="75.817734"
          y="272.71796"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-56">ㅌ</tspan></text>
+         className="key-text"
+         id="x-kr-s">ㅌ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-0-67"
@@ -1215,12 +1304,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-4-0"
+       className="key"
+       id="c-key"
        width="18.520834"
        height="18.520834"
        x="87.078171"
        y="256.4751"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-4-0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1231,7 +1322,8 @@
          x="89.004303"
          y="268.16537"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-0-4">C</tspan></text>
+         className="key-text"
+         id="c-en-s">C</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1242,7 +1334,8 @@
          x="96.455246"
          y="272.71796"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-7-14">ㅊ</tspan></text>
+         className="key-text"
+         id="c-kr-s">ㅊ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-5-27"
@@ -1253,12 +1346,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-6-92"
+       className="key"
+       id="v-key"
        width="18.520834"
        height="18.520834"
        x="107.71569"
        y="256.4751"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-6-92" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1269,7 +1364,8 @@
          x="109.6418"
          y="268.16537"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-3-8">V</tspan></text>
+         className="key-text"
+         id="v-en-s">V</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1280,7 +1376,8 @@
          x="117.09277"
          y="272.71796"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-7-00">ㅍ</tspan></text>
+         className="key-text"
+         id="v-kr-s">ㅍ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-1"
@@ -1291,12 +1388,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-6"
+       className="key"
+       id="b-key"
        width="18.520834"
        height="18.520834"
        x="128.35318"
        y="256.47513"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-6" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1307,7 +1406,8 @@
          x="130.27928"
          y="268.16528"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-9">B</tspan></text>
+         className="key-text"
+         id="b-en-s">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1318,7 +1418,8 @@
          x="137.73021"
          y="272.7179"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-8">ㅠ</tspan></text>
+         className="key-text"
+         id="b-kr-s">ㅠ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-50"
@@ -1329,12 +1430,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-9-16"
+       className="key"
+       id="n-key"
        width="18.520834"
        height="18.520834"
        x="148.99065"
        y="256.47513"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-9-16" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1345,7 +1448,8 @@
          x="150.91679"
          y="268.16528"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-1-5">N</tspan></text>
+         className="key-text"
+         id="n-en-s">N</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1356,7 +1460,8 @@
          x="158.36772"
          y="272.71786"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-04-59">ㅜ</tspan></text>
+         className="key-text"
+         id="n-kr-s">ㅜ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-7-0-26"
@@ -1367,12 +1472,14 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
-       id="rect826-1-2-48-4-1"
+       className="key"
+       id="m-key"
        width="18.520834"
        height="18.520834"
        x="169.62813"
        y="256.47513"
-       ry="2.7880983" />
+       ry="2.7880983"
+       inkscape:label="#rect826-1-2-48-4-1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1383,7 +1490,8 @@
          x="171.55428"
          y="268.16528"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.25500011px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-77-0-67">M</tspan></text>
+         className="key-text"
+         id="m-en-s">M</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1394,7 +1502,8 @@
          x="179.0052"
          y="272.7179"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan902-08-7-6">ㅡ</tspan></text>
+         className="key-text"
+         id="m-kr-s">ㅡ</tspan></text>
     <rect
        style="opacity:0.98999999;fill:#91a1c3;fill-opacity:0.96862745;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
        id="rect826-1-8-5-273"
@@ -1491,7 +1600,7 @@
          x="251.90729"
          y="244.35689"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-66-2-5-3">&quot;</tspan></text>
+         id="tspan862-7-66-2-5-3" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1546,7 +1655,7 @@
          x="196.84935"
          y="264.61655"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-4-4-4-7">&lt;</tspan></text>
+         id="tspan862-7-4-4-4-7" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1568,7 +1677,7 @@
          x="218.02171"
          y="264.61655"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-66-2-5-2">&gt;</tspan></text>
+         id="tspan862-7-66-2-5-2" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1612,6 +1721,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="1-key"
        width="18.520834"
        height="18.520834"
@@ -1651,6 +1761,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="2-key"
        width="18.520834"
        height="18.520834"
@@ -1690,6 +1801,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="3-key"
        width="18.520834"
        height="18.520834"
@@ -1729,6 +1841,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="4-key"
        width="18.520834"
        height="18.520834"
@@ -1768,6 +1881,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="5-key"
        width="18.520834"
        height="18.520834"
@@ -1807,6 +1921,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="6-key"
        width="18.520834"
        height="18.520834"
@@ -1846,6 +1961,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="7-key"
        width="18.520834"
        height="18.520834"
@@ -1863,7 +1979,7 @@
          x="151.42468"
          y="200.46812"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20637552"
-         id="tspan862-7-4-4-4-3-1">&amp;</tspan></text>
+         id="tspan862-7-4-4-4-3-1" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4083333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20637552"
@@ -1923,6 +2039,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="9-key"
        width="18.520834"
        height="18.520834"
@@ -1962,6 +2079,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="0-key"
        width="18.520834"
        height="18.520834"
@@ -2001,6 +2119,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="minus-key"
        width="18.520834"
        height="18.520834"
@@ -2040,6 +2159,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="equal-key"
        width="18.520834"
        height="18.520834"
@@ -2079,6 +2199,7 @@
        ry="2.5961225" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.12635815;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="back-key"
        width="29.598066"
        height="18.503942"
@@ -2107,6 +2228,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="tilde-key"
        width="18.520834"
        height="18.520834"
@@ -2238,6 +2360,7 @@
        ry="2.7880983" />
     <rect
        style="opacity:0.98999999;fill:#c8cfe0;fill-opacity:1;stroke:none;stroke-width:0.12672032;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95294118"
+       className="key"
        id="tab-key"
        width="29.740829"
        height="18.520834"
