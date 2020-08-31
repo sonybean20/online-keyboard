@@ -51,7 +51,18 @@
   max-width: 150vh;
 }
 
-/* #q-key{
-  fill: rgb(145, 161, 195);
-} */
+.key-text {
+  cursor: pointer;
+
+  /* disable select */
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.key {
+  cursor: pointer;
+}
 

@@ -174,9 +174,33 @@ function App() {
   }
 
   function addEventListeners(e) {
-    let el = document.getElementById('q-key');
-    el.addEventListener("mousedown", keyMousedown);
-    el.addEventListener("mouseup", keyMouseup);
+    let elems = document.getElementsByClassName('key-text');
+    for (let i = 0; i < elems.length; i++) {
+      // elems[i].addEventListener("mousedown", textKeyMousedown);
+      elems[i].addEventListener("mouseover", textKeyMousedown);
+      // elems[i].addEventListener("mouseup", textKeyMouseup);
+      elems[i].addEventListener("mouseout", textKeyMouseup);
+    }
+
+    elems = document.getElementsByClassName('key');
+    for (let i = 0; i < elems.length; i++) {
+      // elems[i].addEventListener("mousedown", keyMousedown);
+      elems[i].addEventListener("mouseover", keyMousedown);
+      // elems[i].addEventListener("mouseup", keyMouseup);
+      elems[i].addEventListener("mouseout", keyMouseup);
+    }
+  }
+
+  function textKeyMousedown(e) {
+    console.log("textKeyMousedown: target.id " + e.target.id + ", parent id " + e.target.id.substr(0,1) + 'key');
+    let parent_key = document.getElementById(e.target.id.substr(0,1) + '-key');
+    parent_key.style.fill = 'rgb(145, 161, 195)';
+  }
+
+  function textKeyMouseup(e) {
+    console.log("textKeyMouseup");
+    let parent_key = document.getElementById(e.target.id.substr(0,1) + '-key');
+    parent_key.style.fill = 'rgb(200, 207, 224)';
   }
 
   function keyMousedown(e) {
